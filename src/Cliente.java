@@ -2,6 +2,23 @@
 // Clase es un platilla donde se esttructura atributos y metodos de un objeto 
 public class Cliente {
 	
+	/* POJOS : SON OBJETOS SIMPLES, SIGNIFICA QUE NO DEPENDEMOS DE NUNGUN API, ES DECIR TENEMOS QUE CREAR MANUALEMENTE 
+	 * TODOS LO QUE CESITAMOS EN ESTA CLASE 
+	 * 
+	 *  1.- ATRIBUTOS 
+	 *  2.- CONTRUCTOR VACIO 
+	 *  3.- CONSTRUCTOR CON  PARAMETROS 
+	 *  4.- METODOS TOSTRING 
+	 *  5.- ENCAPSULAMIENTO 
+	 *  
+	 *  JAVA APPLICATTION 
+	 *  
+	 *  --> CUANDO DEPENDEO DE UNA API --> JPA, MOKITO, LOMBOOK -->ACTIBIDAD EMPRESARTUAL --> EN LA 4 SEMANA 
+	 * 
+	 * 
+	 * 
+	 * */
+	
 	// atributos: caracteristicas de un objeto 
 	
 	 private int id;
